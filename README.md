@@ -1,5 +1,5 @@
 # 💫 About Me:
- 👋 Hello, I'm [Your Name]!  <br>I'm a Computer Science student passionate about software development, algorithms, and open-source projects.<br> I enjoy building web applications, exploring AI, and solving competitive programming challenges.<br><br> 🔧 Technologies & Tools:  <br>- Languages: Python, JavaScript, C++  <br>- Web Dev: HTML,CSS,BOOSTRAP<br>- Databases: MySQL <br>
+ 👋 Hello, I'm [DANIYAL KHALIL]!  <br>I'm a Computer Science student passionate about software development, algorithms, and open-source projects.<br> I enjoy building web applications, exploring AI, and solving competitive programming challenges.<br><br> 🔧 Technologies & Tools:  <br>- Languages: Python, JavaScript, C++  <br>- Web Dev: HTML,CSS,BOOSTRAP<br>- Databases: MySQL <br>
 
 
 ## 🌐 Socials:

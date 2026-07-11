@@ -8,7 +8,7 @@
 
 </div>
 
----
+
 
 <div align="center">
 
@@ -16,7 +16,7 @@
 
 </div>
 
----
+
 
 <div align="center">
 
@@ -32,9 +32,7 @@
 
 </div>
 
----
 
----
 
 # 💻 About Me
 
@@ -93,8 +91,6 @@ Fun_fact:
 </div>
 
 
-# 🎯 2026 Learning Roadmap
-
 ```yaml
 Languages:
   - C++
@@ -142,20 +138,6 @@ Future Goals:
 
 
 
-------
-
-
----
-
-
-
----
-
-
----
-
-
-
 # 🎯 2026 Goals
 
 - ✅ Build production-ready full-stack applications
@@ -168,14 +150,7 @@ Future Goals:
 
 ---
 
-# 📚 Favorite Technologies
 
-
-
-------
-
-
----
 
 
 

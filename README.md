@@ -87,7 +87,6 @@ Fun_fact:
   internally instead of just learning how to use it.
 ```
 
----
 ## 🛠️ Tech Stack
 
 ```yaml
@@ -132,7 +131,6 @@ If you like my work, consider starring one of my repositories.
 
 </div>
 
----
 
 <div align="center">
 

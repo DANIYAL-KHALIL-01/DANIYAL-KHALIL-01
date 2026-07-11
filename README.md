@@ -12,7 +12,7 @@
 
 <div align="center">
 
-# 👋 Welcome to my GitHub
+
 
 ### Building software one project at a time.
 

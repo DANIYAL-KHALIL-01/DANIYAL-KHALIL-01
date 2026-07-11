@@ -48,23 +48,6 @@
 
 # 💻 About Me
 
-```text
-I'm a Computer Science graduate passionate about building software
-that combines clean engineering practices with intelligent systems.
-
-I enjoy understanding how technologies work under the hood and
-building projects that strengthen my knowledge of
-
-• Software Engineering
-• Artificial Intelligence
-• Backend Development
-• Cloud Computing
-• Computer Networks
-• Cyber Security
-``` ---
-
-# 👨‍💻 About Me
-
 ```yaml
 name: Daniyal Khalil
 

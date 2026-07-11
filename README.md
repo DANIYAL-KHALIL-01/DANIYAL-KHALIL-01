@@ -7,7 +7,6 @@
 
 </div>
 
-
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Software+Engineer;Artificial+Intelligence+Enthusiast;Backend+Developer;Cloud+Computing+Learner;Always+Learning+New+Technologies"/>

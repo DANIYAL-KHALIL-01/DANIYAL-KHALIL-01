@@ -88,52 +88,22 @@ Fun_fact:
 ```
 
 ---
-## 🛠️ Tech Sta
-
+## 🛠️ Tech Stack
 
 ```yaml
-Languages:
-  - C++
-  - C
-  - Java
-  - Python
-  - JavaScript
-  - Kotlin
+Languages:           [C++, C, Java, Python, JavaScript, Kotlin]
 
-Frontend:
-  - HTML5
-  - CSS3
-  - Tailwind CSS
-  - React
+Frontend:            [HTML5, CSS3, Tailwind CSS, React]
 
-Backend:
-  - Flask
-  - Node.js
+Backend:             [Flask, Node.js]
 
-Databases:
-  - MySQL
-  - SQLite
+Databases:           [MySQL, SQLite]
 
-Tools:
-  - Git
-  - GitHub
-  - VS Code
-  - Android Studio
-  - Linux
+Tools:               [Git, GitHub, VS Code, Android Studio, Linux]
 
-Currently Learning:
-  - Docker
-  - AWS
-  - CI/CD
-  - System Design
-  - Machine Learning
+Currently Learning:  [Docker, AWS, CI/CD, System Design, Machine Learning]
 
-Future Goals:
-  - Kubernetes
-  - Microservices
-  - Distributed Systems
-  - DevOps
-  - LLM Applications
+Future Goals:        [Kubernetes, Microservices, Distributed Systems, DevOps, LLM Applications]
 ```
 
 

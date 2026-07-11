@@ -17,6 +17,15 @@
 </div>
 
 
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,c,java,python,js,kotlin,html,css,tailwind,react" />
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=flask,nodejs,mysql,sqlite,git,github,vscode,linux,androidstudio,docker,aws" />
+
+</div>
 
 <div align="center">
 
@@ -78,17 +87,7 @@ Fun_fact:
 ```
 
 ---
-## 🛠️ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,c,java,python,js,kotlin,html,css,tailwind,react" />
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=flask,nodejs,mysql,sqlite,git,github,vscode,linux,androidstudio,docker,aws" />
-
-</div>
+## 🛠️ Tech Sta
 
 
 ```yaml

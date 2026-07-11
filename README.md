@@ -3,7 +3,7 @@
 <!-- ========================================================= -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Software+Engineer;Artificial+Intelligence+Enthusiast;Backend+Developer;Cloud+Computing+Learner;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=62&duration=1800&pause=999999&color=39FF14&center=true&vCenter=true&repeat=false&width=1000&height=100&lines=Daniyal+Khalil"/>
 
 </div>
 

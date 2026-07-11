@@ -92,31 +92,17 @@ fun_fact:
 ---
 ## 🛠️ Tech Stack
 
-<div align="center">
+**Languages** | <img src="https://skillicons.dev/icons?i=cpp,c,java,python,js,kotlin" />
 
-**Languages**
+**Frontend** | <img src="https://skillicons.dev/icons?i=html,css,tailwind,react" />
 
-<img src="https://skillicons.dev/icons?i=cpp,c,java,python,js,kotlin" />
+**Backend** | <img src="https://skillicons.dev/icons?i=flask,nodejs" />
 
-<br><br>
+**Databases** | <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
 
-**Frontend**
+**Cloud & DevOps** | <img src="https://skillicons.dev/icons?i=docker,aws" />
 
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react" />
-
-<br><br>
-
-**Backend & Database**
-
-<img src="https://skillicons.dev/icons?i=flask,nodejs,mysql,sqlite" />
-
-<br><br>
-
-**Tools & Platforms**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,androidstudio,docker,aws" />
-
-</div>
+**Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,linux" />
 # 🚀 Featured Projects
 
 <table>

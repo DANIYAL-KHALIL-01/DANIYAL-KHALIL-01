@@ -3,9 +3,10 @@
 <!-- ========================================================= -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0D1117,35:0E4429,70:238636,100:2EA043&text=Daniyal%20Khalil&fontColor=F0F6FC&fontSize=55&fontAlignY=35&desc=Computer%20Science%20Graduate%20%7C%20Aspiring%20Software%20Engineer%20%7C%20AI%20Enthusiast&descAlignY=55&descColor=C9D1D9&animation=fadeIn"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Software+Engineer;Artificial+Intelligence+Enthusiast;Backend+Developer;Cloud+Computing+Learner;Always+Learning+New+Technologies"/>
 
 </div>
+
 
 <div align="center">
 

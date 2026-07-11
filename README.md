@@ -3,32 +3,7 @@
 <!-- ========================================================= -->
 <div align="center">
 
-```bash
-┌──(daniyal㉿github)-[~]
-└─$ whoami
-Daniyal Khalil
-
-┌──(daniyal㉿github)-[~]
-└─$ cat profile.yml
-
-Role: Software Engineer
-Education: BS Computer Science
-University: Quaid-i-Azam University
-
-Focus:
-- Software Engineering
-- Artificial Intelligence
-- Backend Development
-- Cloud Computing
-
-Currently Learning:
-- Docker
-- AWS
-- System Design
-
-Status:
-Looking for Software Engineering Opportunities 🚀
-```
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0D1117,30:1F6FEB,70:58A6FF,100:79C0FF&text=Daniyal%20Khalil&fontColor=ffffff&fontSize=55&fontAlignY=35&desc=Software%20Engineer%20%7C%20Artificial%20Intelligence%20%7C%20Cloud%20Computing&descAlignY=55&animation=fadeIn"/>
 
 </div>
 

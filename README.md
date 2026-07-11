@@ -94,7 +94,6 @@ Fun_fact:
 
 
 # 🎯 2026 Learning Roadmap
-## 🛠️ Tech Stack
 
 ```yaml
 Languages:
@@ -155,27 +154,7 @@ Future Goals:
 
 ---
 
-# 🏆 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=DANIYAL-KHALIL-01&theme=algolia&margin-w=15&margin-h=15&no-frame=true&column=4"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/DANIYAL-KHALIL-01/DANIYAL-KHALIL-01/output/github-contribution-grid-snake.svg"/>
-
-</div>
-
----
-
----
 
 # 🎯 2026 Goals
 
@@ -191,11 +170,7 @@ Future Goals:
 
 # 📚 Favorite Technologies
 
-<div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,java,python,react,flask,mysql,sqlite,git,github,linux"/>
-
-</div>
 
 ------
 

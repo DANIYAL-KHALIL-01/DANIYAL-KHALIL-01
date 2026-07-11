@@ -90,90 +90,33 @@ fun_fact:
 ```
 
 ---
+## 🛠️ Tech Stack
 
-# 🛠 Tech Stack
+<div align="center">
 
-## 💻 Programming Languages
+**Languages**
 
-<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,c,java,python,js,kotlin" />
 
-<img src="https://skillicons.dev/icons?i=cpp,c,java,python,js,kotlin"/>
+<br><br>
 
-</p>
+**Frontend**
 
----
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react" />
 
-## 🌐 Frontend Development
+<br><br>
 
-<p align="center">
+**Backend & Database**
 
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react"/>
+<img src="https://skillicons.dev/icons?i=flask,nodejs,mysql,sqlite" />
 
-</p>
+<br><br>
 
----
+**Tools & Platforms**
 
-## ⚙ Backend Development
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,androidstudio,docker,aws" />
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=flask,nodejs"/>
-
-</p>
-
----
-
-## 🗄 Databases
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=mysql,sqlite"/>
-
-</p>
-
----
-
-## ☁ Cloud & DevOps
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github"/>
-
-</p>
-
----
-
-## 📱 Mobile Development
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=androidstudio,kotlin"/>
-
-</p>
-
----
-
-## 💻 Development Tools
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=vscode,linux,git,github"/>
-
-</p>
-
----
-
-## 📚 Currently Exploring
-
-- ☁ Cloud Computing
-- 🐳 Docker
-- ⚙ CI/CD Pipelines
-- 🏗 Software Architecture
-- 🧠 Machine Learning
-- 🔒 Cyber Security
-- 📡 Computer Networks
----
-
+</div>
 # 🚀 Featured Projects
 
 <table>
